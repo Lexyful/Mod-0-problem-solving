@@ -9,7 +9,7 @@ if(friendsNames[i].length <= 4) {
     
     
     
-// // For this challenge I wanted to print only the names that have 4 characters or less.
+// /// For this challenge I wanted to print only the names that have 4 characters or less.
 // 1) I will be forming an array which allows me to store many pieces of data in one variable. 
 // 2) The friendsNames variable stores an array of strings. 
 // 3) To start I'm going to name my variable by typing, var friendsNames =, after that i'll type the array in [], and that will be where my array of 
